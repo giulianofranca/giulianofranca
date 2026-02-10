@@ -49,7 +49,7 @@ Currently freelancing as a Back-End Developer after four years at **Mikros Anima
 ![Ayon](https://img.shields.io/badge/Ayon-00D4AA?style=for-the-badge&logo=ynput&logoColor=white)
 ![RV](https://img.shields.io/badge/RV-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![USD](https://img.shields.io/badge/USD-0071C5?style=for-the-badge&logo=pixar&logoColor=white)
-![OpenImageIO](https://img.shields.io/badge/OpenImageIO-6BA539?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![OpenImageIO](https://img.shields.io/badge/OpenImageIO-6BA539?style=for-the-badge&logo=academysoftwarefoundation&logoColor=white)
 ![OpenTimelineIO](https://img.shields.io/badge/OpenTimelineIO-4A90E2?style=for-the-badge&logo=academysoftwarefoundation&logoColor=white)
 
 ---
