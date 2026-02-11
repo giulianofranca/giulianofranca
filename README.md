@@ -62,7 +62,7 @@ Currently freelancing as a Back-End Developer after four years at **Mikros Anima
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giulianofranca&layout=compact&theme=tokyonight&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=giulianofranca&color=blueviolet&style=flat-square&label=Profile+Views)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=giulianofranca&color=blueviolet&style=flat-square&label=Profile+Views) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giulianofranca&theme=tokyonight&hide_border=true)
 
