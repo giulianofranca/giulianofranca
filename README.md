@@ -36,6 +36,7 @@ Currently freelancing as a Back-End Developer after four years at **Mikros Anima
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
+![PyBind11](https://img.shields.io/badge/PyBind11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Cloud & Databases
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
