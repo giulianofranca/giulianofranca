@@ -49,6 +49,7 @@ Currently freelancing as a Back-End Developer after four years at **Mikros Anima
 ![Flow Production Tracking](https://img.shields.io/badge/Flow_Production_Tracking-00B4E6?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Ayon](https://img.shields.io/badge/Ayon-00D4AA?style=for-the-badge&logo=ynput&logoColor=white)
 ![RV](https://img.shields.io/badge/RV-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![USD](https://img.shields.io/badge/USD-0071C5?style=for-the-badge&logo=pixar&logoColor=white)
 ![OpenImageIO](https://img.shields.io/badge/OpenImageIO-6BA539?style=for-the-badge&logo=academysoftwarefoundation&logoColor=white)
 ![OpenTimelineIO](https://img.shields.io/badge/OpenTimelineIO-4A90E2?style=for-the-badge&logo=academysoftwarefoundation&logoColor=white)
