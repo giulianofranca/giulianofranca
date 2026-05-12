@@ -18,7 +18,7 @@
 
 I'm a Technical Director and Back-End Developer with **9+ years** of experience bridging animation/VFX production and software development. I specialize in building high-performance pipeline tools, APIs, and automation systems that help creative teams work faster and smarter.
 
-Currently freelancing as a Back-End Developer after four years at **Mikros Animation**, where I built production tools for feature films including *TMNT: Mutant Mayhem* and *Paw Patrol: The Mighty Movie*. My work has helped 50+ artists across three studio locations work more efficiently, with measurable impacts like 10% faster production speeds and 60% reduction in technical onboarding time.
+Currently working as a Pipeline Developer at **Lightfarm Studios**, where I build and maintain production pipeline tools for animation and VFX projects. Previously spent four years at **Mikros Animation**, where I built production tools for feature films including *TMNT: Mutant Mayhem* and *Paw Patrol: The Mighty Movie*, helping 50+ artists across three studio locations work more efficiently—with measurable impacts like 10% faster production speeds and 60% reduction in technical onboarding time.
 
 **What drives me:** Solving complex technical challenges that empower artists and streamline creative workflows—whether that's through custom C++ plugins, Python automation, or scalable back-end systems.
 
